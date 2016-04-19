@@ -7,7 +7,7 @@ Three.js + CoffeeScript + Webpack Boilerplate
 - Html plugin
 - BrowserSync
 
-## Get Start
+## Usage
 
 ```
 git clone https://github.com/pinqy520/three-coffee-starter.git
