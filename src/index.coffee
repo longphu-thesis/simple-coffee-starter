@@ -60,4 +60,5 @@ render = ->
 	box.rotation.x += 0.1
 	renderer.render scene, camera
 
+# start
 animate()
