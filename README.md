@@ -10,8 +10,8 @@ Three.js + CoffeeScript + Webpack Boilerplate
 ## Usage
 
 ```
-git clone https://github.com/pinqy520/three-coffee-starter.git
-cd three-coffee-starter
-npm install
-npm start
+$ git clone https://github.com/pinqy520/three-coffee-starter.git
+$ cd three-coffee-starter
+$ npm install
+$ npm start
 ```
