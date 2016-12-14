@@ -1,7 +1,7 @@
 {
-  "name": "three-coffee-starter",
+  "name": "simple-coffee-starter",
   "version": "1.0.0",
-  "description": "three.js + coffeescript",
+  "description": "minimal coffeescript boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,30 +9,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pinqy520/three-coffee-starter.git"
+    "url": "git+https://github.com/pinqy520/simple-coffee-starter.git"
   },
   "keywords": [],
   "author": "Huang Qi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pinqy520/three-coffee-starter/issues"
+    "url": "https://github.com/pinqy520/simple-coffee-starter/issues"
   },
-  "homepage": "https://github.com/pinqy520/three-coffee-starter#readme",
+  "homepage": "https://github.com/pinqy520/simple-coffee-starter#readme",
   "devDependencies": {
     "browser-sync": "latest",
     "browser-sync-webpack-plugin": "latest",
     "coffee-loader": "latest",
     "coffee-script": "latest",
-    "css-loader": "latest",
     "extract-text-webpack-plugin": "latest",
     "html-webpack-plugin": "latest",
-    "json-loader": "latest",
     "progress-bar-webpack-plugin": "latest",
-    "style-loader": "latest",
     "webpack": "latest",
     "webpack-dev-server": "latest"
   },
-  "dependencies": {
-    "three": "latest"
-  }
+  "dependencies": {}
 }

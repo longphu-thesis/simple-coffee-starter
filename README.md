@@ -1,6 +1,6 @@
-# Three.js Webpack Starter
+# simple-coffee-starter
 
-Three.js + CoffeeScript + Webpack Boilerplate
+Minimal CoffeeScript + Webpack Boilerplate
 
 - Coffee-Script support.
 - Webpack
@@ -10,8 +10,8 @@ Three.js + CoffeeScript + Webpack Boilerplate
 ## Usage
 
 ```
-$ git clone https://github.com/pinqy520/three-coffee-starter.git
-$ cd three-coffee-starter
+$ git clone https://github.com/pinqy520/simple-coffee-starter.git
+$ cd simple-coffee-starter
 $ npm install
 $ npm start
 ```

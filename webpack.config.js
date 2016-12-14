@@ -34,7 +34,6 @@ module.exports = {
         loaders: [
             { test: /\.coffee$/, exclude: /node_modules/, loader: "coffee-loader" },
             { test: /\.(coffee\.md|litcoffee)$/, loader: "coffee-loader?literate" },
-            { test: /\.css$/, loader: "style-loader!css-loader" }
         ]
     },
     resolve: { extensions: ["", ".web.coffee", ".web.js", ".coffee", ".js"] },
