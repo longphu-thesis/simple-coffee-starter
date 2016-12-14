@@ -35,3 +35,6 @@ node_modules
 # Dist and OSX
 dist
 .DS_Store
+
+# Yarn
+yarn.lock
